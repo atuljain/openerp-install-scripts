@@ -38,7 +38,7 @@ OE_SERVER_REV="5004"
 OE_ADDONS_REV="9154"
 
 #set the superadmin password
-OE_SUPERADMIN="superadminpassword"
+OE_SUPERADMIN="admin"
 OE_CONFIG="openerp-server"
 
 #--------------------------------------------------
